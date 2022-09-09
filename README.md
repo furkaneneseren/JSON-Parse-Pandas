@@ -61,5 +61,5 @@ JSON Server for API scenario.
 
 | ![mysql-add4](screen-shots/mysql-add4.png) |
 | :--:|
-| *MySQL Added-Updated New User* |
+| *MySQL Log Table* |
 
