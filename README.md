@@ -4,7 +4,7 @@ In this project, the information of users using the bank's mobile application is
 the application, I wrote a Python code that makes the necessary updates and additions to the database 
 when the new user or updated user data comes from an API in json type. I 
 worked with the Pandas dataframes and implemented the scenario on the MySQL database. I set up 
-JSON Server for API scenario.
+JSON Server with MockData.json for API scenario.
 
 ## Tech and Libraries
 
